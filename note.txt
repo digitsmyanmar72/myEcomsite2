@@ -1,0 +1,10 @@
+
+
+
+ntegrity="sha384-F3w7mX95PdgyTmZZMECAngseQBB3DfGTowi0iMjiWaeVhAn4FkqJByhZMI3AhiU"
+
+https://pro.fontawesome.com/releases/v5.10.0/css/all.css
+
+
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQBB3DfGTowi0iMjiWaeVhAn4FkqJByhZMI3AhiU" crossorigin="anonymous"  />
+</head>
